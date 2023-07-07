@@ -1,2 +1,2 @@
 # landscaper-docs
-Test Repo trying out docusaurus doc generation for various repos
+Test Repo trying out doc generation for various repos
